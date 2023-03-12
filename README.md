@@ -1,2 +1,2 @@
 # InternshipJavaAssignment
-application and sql file
+Application and sql file
